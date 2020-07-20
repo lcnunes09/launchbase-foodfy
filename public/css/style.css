@@ -41,7 +41,32 @@
 }
 
 .links a:hover {
-    font-weight: bol;
+    font-weight: bold;
+}
+
+
+h1 {
+    font-size: 24px;
+    line-height: 34px;
+    color: #111111;
+    padding-bottom: 20px;
+    padding-top:10px;
+}
+
+h2 {
+    font-size: 20px;
+    line-height: 24px;
+    color: #111111;
+    padding-bottom: 20px;
+}
+
+session p {
+    font-size: 18px;
+    line-height: 28px;    
+    color: #444444;
+
+    font-weight: 300;
+    padding-bottom: 30px;
 }
 
 .wrapper {
@@ -204,3 +229,4 @@ footer p {
     cursor: pointer;
     margin-top: 60px;
 }
+
