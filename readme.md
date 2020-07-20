@@ -5,3 +5,8 @@ Página realizada por parte do desafio durante a realização do curso LaunchBas
 ## Parte 1
 - Estrutura inicial de front-end, utilizando HTML, CSS e JavaScript para manipulação de modal na página de Receitas.
 - Päginas criadas: Página inicial, Sobre e Receitas com detalhe das receitas.
+
+## Parte 2
+- Criado servidor usando Node Express
+- Código atualizado usando a Template Engine Nunjucks
+- Reorganização das pastas 
